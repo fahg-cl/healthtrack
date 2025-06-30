@@ -1,8 +1,8 @@
-package com.equipo.healthtrack;
+package test.java.com.equipo.healthtrack;
 
 import org.junit.jupiter.api.Test;
 
-import main.java.com.equipo.healthtrack.Usuario;
+import com.equipo.healthtrack.Usuario;
 
 import static org.junit.jupiter.api.Assertions.*;
 
